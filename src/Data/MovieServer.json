@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "image": "https://lumiere-a.akamaihd.net/v1/images/p_junglecruise_21740_v2_bb7f0ae4.jpeg",
+      "title": "jungle Cruise",
+      "rating": 5.2
+    },
+    {
+      "image": "https://m.media-amazon.com/images/M/MV5BZDdlNTIwNjYtNzVhNS00MGVmLTk1ZGYtZmZiMjhiMmQ1ZjkwXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+      "title": "The Movie",
+      "rating": 8.2
+    },
+    {
+      "image": "https://alternativemovieposters.com/wp-content/uploads/2020/03/curtis_1917.jpg",
+      "title": "1917",
+      "rating": 9.2
+    },
+    {
+      "image": "https://m.media-amazon.com/images/M/MV5BOGM3MzQwYzItNDA1Ny00MzIyLTg5Y2QtYTAwMzNmMDU2ZDgxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+      "title": "Skys",
+      "rating": 7.2
+    },
+    {
+      "id": "5be8",
+      "image": "https://image.tmdb.org/t/p/original/jKE4GGhhSLf4HR2fpD9Ayo2UtAD.jpg",
+      "title": "Dune: Part Two",
+      "rating": "8.6"
+    },
+    {
+      "id": "5f84",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14159625_b_v8_ab.jpg",
+      "title": "the Good Doctor",
+      "rating": "8.0"
+    }
+  ]
+}
